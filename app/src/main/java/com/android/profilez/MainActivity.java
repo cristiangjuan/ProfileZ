@@ -88,8 +88,6 @@ public class MainActivity extends FragmentActivity {
     public void onBackPressed() {
     	
     	Log.v(Constants.Log.METHOD, "MainActivity - onBackPressed");
-
-
     }
 
 }
